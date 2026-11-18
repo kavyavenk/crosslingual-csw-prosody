@@ -1,12 +1,10 @@
 # Cross-Lingual Prosodic Profiles of Conversational Code-switched Speech
 
-Analysis code for Bhattacharya*, Venkatesh*, and Hirschberg, *Cross-Lingual Prosodic Profiles of Conversational Code-switched Speech* (Findings of EACL 2027).
-
-The code compares utterance-level prosody (103 DisVoice F0, energy, and duration features) between code-switched and monolingual speech in Mandarin-English (SEAME) and Hindi-English (MaSaC), with a Spanish-English (Bangor Miami) diagnostic classifier.
+Our work compares utterance-level prosody (103 DisVoice F0, energy, and duration features) between code-switched and monolingual speech in Mandarin-English (SEAME) and Hindi-English (MaSaC), with a Spanish-English (Bangor Miami) diagnostic classifier.
 
 ## Data
 
-No corpus data is included in this repository. Obtain each corpus from its original source:
+We made sure not to include any corpus data in this repository. You can obtain each corpus from its original source:
 
 - **SEAME**: [LDC2015S04](https://catalog.ldc.upenn.edu/LDC2015S04) (LDC license required)
 - **MaSaC**: <https://github.com/LCS2-IIITD/MSH-COMICS>
