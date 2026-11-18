@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Corpus data, features, and outputs are never committed (SEAME is LDC-licensed)
+data/
+features/
+manifests/
+results/
+reports/
+logs/
+notebooks/
+*.wav
+*.mp3
+*.csv
+*.xlsx
+*.TextGrid
+*.log
+*.pdf
+*.pptx
+*.docx
+
+# Notes
+*.md
+!README.md
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
